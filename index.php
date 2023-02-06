@@ -17,7 +17,7 @@
                 <label for="">Price:</label>
                 <input type="text" name="price" id=""><br>
                 <label for="">Image:</label>
-                <input type="text" name="image" id=""><br>
+                <input type="file" name="image" id=""><br>
                 <button name="upload" type="submit">Upload</button>
             </form>
         </div>
